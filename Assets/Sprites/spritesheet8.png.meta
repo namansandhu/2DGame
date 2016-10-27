@@ -1,0 +1,1893 @@
+fileFormatVersion: 2
+guid: d03a5f6a2a8e21a4d802042d25b7f5af
+timeCreated: 1477339302
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spritesheet8_0
+    21300002: spritesheet8_1
+    21300004: spritesheet8_2
+    21300006: spritesheet8_3
+    21300008: spritesheet8_4
+    21300010: spritesheet8_5
+    21300012: spritesheet8_6
+    21300014: spritesheet8_7
+    21300016: spritesheet8_8
+    21300018: spritesheet8_9
+    21300020: spritesheet8_10
+    21300022: spritesheet8_11
+    21300024: spritesheet8_12
+    21300026: spritesheet8_13
+    21300028: spritesheet8_14
+    21300030: spritesheet8_15
+    21300032: spritesheet8_16
+    21300034: spritesheet8_17
+    21300036: spritesheet8_18
+    21300038: spritesheet8_19
+    21300040: spritesheet8_20
+    21300042: spritesheet8_21
+    21300044: spritesheet8_22
+    21300046: spritesheet8_23
+    21300048: spritesheet8_24
+    21300050: spritesheet8_25
+    21300052: spritesheet8_26
+    21300054: spritesheet8_27
+    21300056: spritesheet8_28
+    21300058: spritesheet8_29
+    21300060: spritesheet8_30
+    21300062: spritesheet8_31
+    21300064: spritesheet8_32
+    21300066: spritesheet8_33
+    21300068: spritesheet8_34
+    21300070: spritesheet8_35
+    21300072: spritesheet8_36
+    21300074: spritesheet8_37
+    21300076: spritesheet8_38
+    21300078: spritesheet8_39
+    21300080: spritesheet8_40
+    21300082: spritesheet8_41
+    21300084: spritesheet8_42
+    21300086: spritesheet8_43
+    21300088: spritesheet8_44
+    21300090: spritesheet8_45
+    21300092: spritesheet8_46
+    21300094: spritesheet8_47
+    21300096: spritesheet8_48
+    21300098: spritesheet8_49
+    21300100: spritesheet8_50
+    21300102: spritesheet8_51
+    21300104: spritesheet8_52
+    21300106: spritesheet8_53
+    21300108: spritesheet8_54
+    21300110: spritesheet8_55
+    21300112: spritesheet8_56
+    21300114: spritesheet8_57
+    21300116: spritesheet8_58
+    21300118: spritesheet8_59
+    21300120: spritesheet8_60
+    21300122: spritesheet8_61
+    21300124: spritesheet8_62
+    21300126: spritesheet8_63
+    21300128: spritesheet8_64
+    21300130: spritesheet8_65
+    21300132: spritesheet8_66
+    21300134: spritesheet8_67
+    21300136: spritesheet8_68
+    21300138: spritesheet8_69
+    21300140: spritesheet8_70
+    21300142: spritesheet8_71
+    21300144: spritesheet8_72
+    21300146: spritesheet8_73
+    21300148: spritesheet8_74
+    21300150: spritesheet8_75
+    21300152: spritesheet8_76
+    21300154: spritesheet8_77
+    21300156: spritesheet8_78
+    21300158: spritesheet8_79
+    21300160: spritesheet8_80
+    21300162: spritesheet8_81
+    21300164: spritesheet8_82
+    21300166: spritesheet8_83
+    21300168: spritesheet8_84
+    21300170: spritesheet8_85
+    21300172: spritesheet8_86
+    21300174: spritesheet8_87
+    21300176: spritesheet8_88
+    21300178: spritesheet8_89
+    21300180: spritesheet8_90
+    21300182: spritesheet8_91
+    21300184: spritesheet8_92
+    21300186: spritesheet8_93
+    21300188: spritesheet8_94
+    21300190: spritesheet8_95
+    21300192: spritesheet8_96
+    21300194: spritesheet8_97
+    21300196: spritesheet8_98
+    21300198: spritesheet8_99
+    21300200: spritesheet8_100
+    21300202: spritesheet8_101
+    21300204: spritesheet8_102
+    21300206: spritesheet8_103
+    21300208: spritesheet8_104
+    21300210: spritesheet8_105
+    21300212: spritesheet8_106
+    21300214: spritesheet8_107
+    21300216: spritesheet8_108
+    21300218: spritesheet8_109
+    21300220: spritesheet8_110
+    21300222: spritesheet8_111
+    21300224: spritesheet8_112
+    21300226: spritesheet8_113
+    21300228: spritesheet8_114
+    21300230: spritesheet8_115
+    21300232: spritesheet8_116
+    21300234: spritesheet8_117
+    21300236: spritesheet8_118
+    21300238: spritesheet8_119
+    21300240: spritesheet8_120
+    21300242: spritesheet8_121
+    21300244: spritesheet8_122
+    21300246: spritesheet8_123
+    21300248: spritesheet8_124
+    21300250: spritesheet8_125
+    21300252: spritesheet8_126
+    21300254: spritesheet8_127
+    21300256: spritesheet8_128
+    21300258: spritesheet8_129
+    21300260: spritesheet8_130
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spritesheet8_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 572
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 565
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 558
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_3
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 552
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_4
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 546
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_5
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 408
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_6
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 405
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_7
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 499
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_8
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 403
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_9
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 400
+        width: 107
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_10
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 412
+        width: 80
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 443
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_12
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 442
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_13
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 441
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 158
+        width: 111
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_15
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 362
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 145
+        width: 124
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_17
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 366
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_18
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 130
+        width: 121
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_19
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 369
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_20
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 130
+        width: 131
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_21
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 370
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_22
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 365
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_23
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 368
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_24
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 363
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_25
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 370
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_26
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 357
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_27
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_28
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 263
+        width: 97
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_29
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 362
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_30
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 344
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_31
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 345
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_32
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 331
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_33
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 346
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_34
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 350
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_35
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 341
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_36
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 337
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_37
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 334
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_38
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 337
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_39
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 335
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_40
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 337
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_41
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 335
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_42
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 338
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_43
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 335
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 330
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_45
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 331
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_46
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 331
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_47
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 331
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_48
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 331
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_49
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 318
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_50
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 318
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_51
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 307
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_52
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 302
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_53
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 313
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_54
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 289
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_55
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 312
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_56
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 303
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_57
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 302
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_58
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 306
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_59
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 302
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_60
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 306
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_61
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 301
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_62
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 300
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_63
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 296
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_64
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 298
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_65
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 297
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_66
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 287
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_67
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 291
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_68
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 287
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_69
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 290
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_70
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 280
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_71
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 285
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_72
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 279
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_73
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 281
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_74
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 284
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_75
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 278
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_76
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 280
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_77
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 276
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_78
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 268
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_79
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 274
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_80
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 273
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_81
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 272
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_82
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 271
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_83
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 268
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_84
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 267
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_85
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 265
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_86
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 264
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_87
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 233
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_88
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 234
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_89
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 234
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_90
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 235
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_91
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 235
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_92
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 229
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_93
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 130
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_94
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 93
+        width: 89
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_95
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 227
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_96
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 132
+        width: 68
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_97
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 231
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_98
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 228
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_99
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 228
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_100
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 216
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_101
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 216
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_102
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 216
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_103
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 218
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_104
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 216
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_105
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 170
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_106
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 170
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_107
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 218
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_108
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 205
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_109
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 207
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_110
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 208
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_111
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 208
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_112
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 199
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_113
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 201
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_114
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 182
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_115
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 170
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_116
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 159
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_117
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 159
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_118
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 146
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_119
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 148
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_120
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 150
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_121
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 150
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_122
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 148
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_123
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 141
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_124
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 140
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_125
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 140
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_126
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 139
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_127
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_128
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 8
+        width: 64
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_129
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 8
+        width: 81
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet8_130
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 9
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
